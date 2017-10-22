@@ -1,0 +1,110 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+}
+
+#about-me {
+	width: 650px;
+	background: white;
+	float: left;
+	margin: 40px 20px 40px 150px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 40px;
+	color: #777777;
+}
+
+#contact-me {
+	width: 270px;
+	background: white;
+	float: left;
+	margin-top: 40px;
+	padding: 10px;
+	height: 200px;
+	margin-left: 40px;
+}
+
+#about-image {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+}
+
+header {
+	background: white;
+	border-bottom: 2px solid #dbdbdb;
+}
+
+header ul {
+	margin: 0px;
+
+}
+
+header li {
+	float: left;
+	display: inline;
+	margin-right: 100px;
+}
+
+nav {
+	float: right;
+	margin-top: 10px;
+
+}
+h1 {
+	background: #4aaaa5;
+	padding: 20px;
+	width: 150px;
+	margin-bottom: 0px;
+	border: 1 solid #cccccc;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 30px;
+	margin-left: 150px;
+	margin-top: 0px;
+
+}
+
+h2 {
+	color: #4aaaa5;
+	border-bottom: 3px solid #dbdbdb;
+	margin: 20px;
+	padding: 20px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h3 {
+	color:#4aaaa5;
+	text-align: center;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border-bottom: 3px solid #dbdbdb;
+	margin: 20px;
+	padding: 10px;
+}
+
+#redirect {
+	background: white;
+	color: black;
+	font-size: 18px;
+
+}
+
+#icons {
+	margin-left: 40px;
+}
+
+#stack {
+	width: 64px;
+	height: 64px;
+}
+
+#footer {
+	background: #666666;
+	margin: 0 auto;
+	padding: 20px;
+	clear: both;
+	text-align: center;
+	width: 100%;
+	border-top: 5px solid #4aaaa5;
+	color: white;
+}
