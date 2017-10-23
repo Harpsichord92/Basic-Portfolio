@@ -128,13 +128,24 @@ h3 {
 
 #icons {
 	margin-left: 30px;
+	padding: 10px;
 }
 
+#github {
+	position: relative;
+	left: -20px;
+} 
+
+#linked {
+	position: relative;
+	left: -6px;
+}
 
 #stack {
-	padding: 0;
 	width: 64px;
 	height: 64px;
+	position: relative;
+	left: 2px;
 }
 
 #footer {
