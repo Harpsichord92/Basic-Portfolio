@@ -150,7 +150,6 @@ h3 {
 
 #footer {
 	background: #666666;
-	margin: 0 auto;
 	padding: 20px;
 	clear: both;
 	text-align: center;
@@ -159,6 +158,22 @@ h3 {
 	color: white;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 12px;
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 0px;
+}
+
+#footerp, #footerc {
+	background: #666666;
+	padding: 20px;
+	clear: both;
+	text-align: center;
+	width: 100%;
+	border-top: 5px solid #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 12px;
+	bottom: 0;
 }
 
 #culture, #design, #food, #pets, #water {
@@ -184,7 +199,7 @@ h3 {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	top: 390px;
-	left: 170px;
+	left: 171px;
 }
 
 #RPG {
@@ -194,7 +209,7 @@ h3 {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	top: 390px;
-	left: 494px;
+	left: 495px;
 }
 
 #Trivia {
@@ -204,7 +219,7 @@ h3 {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	top: 645px;
-	left: 170px;
+	left: 171px;
 }
 
 #RIW {
@@ -214,7 +229,7 @@ h3 {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	top: 645px;
-	left :494px;
+	left :495px;
 }
 
 #RPS {
@@ -224,5 +239,5 @@ h3 {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	top: 900px;
-	left: 170px;
+	left: 171px;
 }
